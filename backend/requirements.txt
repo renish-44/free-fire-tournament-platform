@@ -1,0 +1,12 @@
+fastapi[standard]
+motor
+certifi
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+slowapi
+qrcode[pil]
+pandas
+openpyxl
