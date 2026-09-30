@@ -1,5 +1,7 @@
 # Free Fire Tournament Registration & Management Platform
 
+A full-stack Free Fire tournament registration and management platform with admin dashboard, player registration, UPI payment verification, MongoDB, and tournament management.
+
 This is a production-quality platform for managing Free Fire tournaments. It features a public-facing player registration side and an admin management interface.
 
 ## Tech Stack
